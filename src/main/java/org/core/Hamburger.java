@@ -1,2 +1,4 @@
-package org.core;public class Hamburger {
+package org.core;
+
+public class Hamburger {
 }

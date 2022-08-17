@@ -1,2 +1,4 @@
-package org.core;public class DeluxeBurger {
+package org.core;
+
+public class DeluxeBurger {
 }
